@@ -15,7 +15,7 @@ def grab_banner(ip_address, port):
 
 
 def main():
-    ports = [80]
+    ports = [22]
     for port in ports:
         ip_address = '192.168.0.1'
         print grab_banner(ip_address, port)
