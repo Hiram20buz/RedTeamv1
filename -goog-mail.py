@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#python2
 
 import sys
 import re
